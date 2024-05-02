@@ -1,0 +1,3 @@
+/Users/danone/Desktop/Analog_Clock/build/CMakeFiles/Analog_Clock.dir
+/Users/danone/Desktop/Analog_Clock/build/CMakeFiles/edit_cache.dir
+/Users/danone/Desktop/Analog_Clock/build/CMakeFiles/rebuild_cache.dir
